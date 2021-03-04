@@ -1,2 +1,2 @@
-numpy==1.20
+numpy
 python-dotenv==0.15.0
