@@ -9,7 +9,7 @@ load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 GUILD = os.getenv('DISCORD_GUILD')
 
-#current size 15
+#current size 39
 gifs = ['https://media1.giphy.com/media/W5TEa73iw1fnSVjjZZ/200w.webp?cid=ecf05e47draafxxzqp7jmcz4w4nkghh3mp7dbmt0shog8isa&rid=200w.webp',
         'https://media4.giphy.com/media/PnaSw04C4NoTuxuJXg/200w.webp?cid=ecf05e47draafxxzqp7jmcz4w4nkghh3mp7dbmt0shog8isa&rid=200w.webp',
         'https://media0.giphy.com/media/Jmg0OCeHfE2YUb88ct/200w.webp?cid=ecf05e47draafxxzqp7jmcz4w4nkghh3mp7dbmt0shog8isa&rid=200w.webp',
@@ -74,7 +74,7 @@ async def on_message(message):
         return
 
     if "twice" in message.content.lower():
-        x = random.randint(15)
+        x = random.randint(39)
         twice_response = f'DID SOMEBODY SAY TWICE?!\n{gifs[x]}'
         await message.channel.send(twice_response)
         
