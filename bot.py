@@ -46,12 +46,13 @@ async def on_message(message):
     )
     if message.author == client.user:
         return
-
+    elif "dad bot" in str(message.author).lower():
+        return
+         
     twice_response = "DID SOMEBODY SAY TWICE?!"
 
     if "twice" in message.content.lower():
         x = random.randint(15)
-        #print('someone said it')
         await message.channel.send(twice_response)
         await message.channel.send(gifs[x])
         
