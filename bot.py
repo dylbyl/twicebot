@@ -74,7 +74,7 @@ async def on_message(message):
         return
 
     if "twice" in message.content.lower():
-        x = random.randint(39)
+        x = random.randint(len(gifs))
         twice_response = f'DID SOMEBODY SAY TWICE?!\n{gifs[x]}'
         await message.channel.send(twice_response)
         
