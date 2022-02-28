@@ -48,7 +48,28 @@ gifs = ['https://media1.giphy.com/media/W5TEa73iw1fnSVjjZZ/200w.webp?cid=ecf05e4
         'https://media.giphy.com/media/TIFCfyNwKlus4oGzuk/giphy.gif',
         'https://media.giphy.com/media/c8En1CeEuqRri/giphy.gif',
         'https://media.giphy.com/media/eLXadZuZ1hN8AOclZR/giphy.gif',
-        'https://media.giphy.com/media/eMgVjuhiwq5USE3icW/giphy.gif',]
+        'https://media.giphy.com/media/eMgVjuhiwq5USE3icW/giphy.gif',
+        'https://64.media.tumblr.com/3720c0649a55983b5b27091baa2b3b80/483f2bd418b6dd35-9b/s400x600/3aae114321e08ea0359f644a7cf3f8cb1b7a26b8.gifv',
+        'https://64.media.tumblr.com/f12291e8998fd5d37ada36993eabe8b6/304ab7d9334aa727-34/s1280x1920/ba166de5c3e719ded0b5f96cfe157f24fbede804.jpg',
+        'https://64.media.tumblr.com/d6432c1425ed45ac3475894d4c781c49/70b5ac379d0d5f68-20/s400x600/7a4df21aa3866543c543e0da881d9d758fb8d91a.png',
+        'https://64.media.tumblr.com/e972fb1cfbe8312007687129dda45852/d15207c9b8b5a99d-4a/s540x810/b76f4e3bbadec14126e57a35db108aba18be62c4.gifv',
+        'https://64.media.tumblr.com/f60d04d8cbdb1eea999c1b5b61aa87f5/a5719cdd50b07585-18/s540x810/3030c36c9320640c80b0c912d05c6763621fe24a.gifv',
+        'https://64.media.tumblr.com/a7b14f89ca955bee07bf74972b7bd18e/361712c5e589935a-5a/s250x400/01ac777eaa1953777bef9f4091d65e4a01ba7d80.gifv',
+        'https://64.media.tumblr.com/43dc22e16228e20ce582196d64b6f966/361712c5e589935a-e8/s250x400/a6f85a745dc2f42945db13c2fb1ee6b20e69ce2a.gifv',
+        'https://64.media.tumblr.com/0dade6ce0328344f97b8e594c06d53c7/361712c5e589935a-7f/s250x400/f4eb0805f201d1b28ae10711dec5a4acf959b2b9.gifv',
+        'https://64.media.tumblr.com/f063053ba40e2135c8ef1b0acd9cd61f/a9518aed49d88f69-f1/s1280x1920/718f3240a7a48ecb8db5178829eb61a7873e6d67.jpg',
+        'https://i.giphy.com/media/UthjTg3TUPDZHFpTVG/200w.webp',
+        'https://media3.giphy.com/media/USDLzEBaDObgWuWywy/200w.webp?cid=ecf05e47m3sgtrwfe9ql29ye75pcystc0nnfd0aod13gnmkj&rid=200w.webp&ct=g',
+        'https://i.giphy.com/media/L2wFxr0ptAW06oQSlE/200w.webp',
+        'https://64.media.tumblr.com/674fec8a19332cdf495a517bf912bab4/8cbd38afb32ebf1a-1c/s540x810/8f112de30862a47cd0a2a164f1dadd735e25c260.gifv',
+        'https://media1.giphy.com/media/JOdKVJrzO3KkZXmCKz/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',
+        'https://media2.giphy.com/media/g8uAoUma06vpjqqEjZ/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',
+        'https://media1.giphy.com/media/lQ7jg6uIclUGTbUQJ8/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',
+        'https://media1.giphy.com/media/3ofSBkhaoNiUqSI1y0/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',
+        'https://media0.giphy.com/media/vqR16AFKwGMM8jtOa1/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',
+        'https://media2.giphy.com/media/G26Ixeq8GrsEmRw37S/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',
+        'https://media1.giphy.com/media/MG2yG0e5g42JO8URxP/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',
+        'https://media4.giphy.com/media/1LYZH90P7R2SoIYdoM/200w.webp?cid=ecf05e47k7gx36p0g5eeo5a9zbbgbj8v632q97mq0ou95qd1&rid=200w.webp&ct=g',]
 
 client = discord.Client()
 
